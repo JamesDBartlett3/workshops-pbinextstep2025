@@ -1,0 +1,14 @@
+createOrReplace
+
+	expression Environment =
+			"PRD" meta [
+				IsParameterQuery = true,
+				List = {"DEV", "QUAL", "PRD"},
+				DefaultValue = "DEV",
+				Type = "Text",
+				IsParameterQueryRequired = true
+			]
+		lineageTag: 64edd943-1a90-4438-b62f-bb95a9da1510
+
+		annotation PBI_ResultType = Text
+

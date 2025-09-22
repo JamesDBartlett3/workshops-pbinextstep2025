@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "tabOrder": [
+    "Script 1",
+    "Sales_Script",
+    "Product_Script"
+  ],
+  "defaultTab": "Product_Script"
+}

@@ -23,7 +23,14 @@
                     "textStyle": {
                       "fontFamily": "Segoe (Bold)",
                       "fontSize": "24pt",
-                      "color": "#000000"
+                      "color": {
+                        "expr": {
+                          "ThemeDataColor": {
+                            "ColorId": 0,
+                            "Percent": 0
+                          }
+                        }
+                      }
                     }
                   },
                   {
@@ -32,7 +39,14 @@
                       "fontWeight": "bold",
                       "fontFamily": "Segoe (Bold)",
                       "fontSize": "24pt",
-                      "color": "#000000"
+                      "color": {
+                        "expr": {
+                          "ThemeDataColor": {
+                            "ColorId": 0,
+                            "Percent": 0
+                          }
+                        }
+                      }
                     }
                   }
                 ]

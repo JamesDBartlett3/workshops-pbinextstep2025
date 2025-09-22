@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900">
+  <!-- card -->
+  <rect x="702.89" y="80.57" width="224.03" height="111.36" fill="#FFD700" stroke="#333" stroke-width="2"/>
+  <rect x="256.13" y="80.57" width="224.03" height="111.36" fill="#FFD700" stroke="#333" stroke-width="2"/>
+  <!-- azureMap -->
+  <rect x="32.14" y="207.66" width="1215.04" height="494.42" fill="#1E90FF" stroke="#333" stroke-width="2"/>
+  <!-- areaChart -->
+  <rect x="728.15" y="207.84" width="526.76" height="191.35" fill="#32CD32" stroke="#333" stroke-width="2"/>
+  <!-- slicer -->
+  <rect x="800.34" y="8.65" width="454.87" height="61.18" fill="#FF69B4" stroke="#333" stroke-width="2"/>
+  <rect x="942.44" y="80.27" width="312.47" height="112.52" fill="#FF69B4" stroke="#333" stroke-width="2"/>
+  <!-- image -->
+  <rect x="32.14" y="6.18" width="65.51" height="65.51" fill="#8A2BE2" stroke="#333" stroke-width="2"/>
+  <!-- pivotTable -->
+  <rect x="38.81" y="98.66" width="1205.67" height="279.55" fill="#FF8C00" stroke="#333" stroke-width="2"/>
+  <!-- textbox -->
+  <rect x="106.30" y="8.03" width="585.27" height="62.42" fill="#A9A9A9" stroke="#333" stroke-width="2"/>
+  <!-- lineChart -->
+  <rect x="728.76" y="416.43" width="525.88" height="289.64" fill="#DC143C" stroke="#333" stroke-width="2"/>
+</svg>
